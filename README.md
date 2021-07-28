@@ -1,4 +1,4 @@
 # DevTi Mx
-<img src="https://www.devti.dev/assets/img/imgSocial.png" alt="banner DevTiMx - software development">
+<img src="https://raw.githubusercontent.com/devtimx/devtimx/main/baner.png" alt="banner DevTiMx - software development">
 
 - WebSite <a href="https://devti.dev/"> Devti.dev</a>
