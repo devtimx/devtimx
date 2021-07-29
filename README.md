@@ -22,3 +22,6 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Methodology-Scrum-informational?style=flat&logo=scrum&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Methodology-DevOps-informational?style=flat&logo=devops&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Architecture-MVC-informational?style=flat&logo=mvc&logoColor=white&color=2bbc8a)
