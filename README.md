@@ -1,7 +1,9 @@
 # DevTi Mx
 <img src="https://raw.githubusercontent.com/devtimx/devtimx/main/baner.png" alt="banner DevTiMx - software development">
 
-- WebSite <a href="https://devti.dev/"> Devti.dev</a>
+# Professionals in web development, mobile applications, server configuration and consulting.
+
+- Web Site <a href="https://devti.dev/"> Devti.dev</a>
 
 # DevTi Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
